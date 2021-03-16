@@ -1,0 +1,12 @@
+<shop>
+	<good code = "1" price = "432" dilivery = "yes" description = "terrible"/>
+	<good code = "2" price = "5435" dilivery = "no" description = "very well"/>
+
+	<orderer code = "3" name = "Dadok" adress = "Totamtotyt" telephone = "79354395353" contactFace = "fdasfads"/>
+	<orderer code = "1" name = "Kidf" adress = "Vezde" telephone = "79324535353" contactFace = "fdasf"/>
+	<orderer code = "2" name = "Popaf" adress = "Totamtotyt" telephone = "79354395353" contactFace = "fdasfads"/>
+
+
+	<order code = "1" orderer = "1" good = "2" amount = "50" data = "tomorrow"/>
+	<order code = "2" orderer = "1" good = "1" amount = "5105" data = "aftertommorow"/>
+</shop>

@@ -1,0 +1,7 @@
+<?xml version="1.0" ?>
+<shop>
+	<good code="1" description="terrible" dilivery="yes" price="432"/>
+	<orderer adress="Vezde" code="1" contactFace="fdasf" name="Kidf" telephone="79324535353"/>
+	<order amount="50" code="1" data="tomorrow" good="1" orderer="1"/>
+	<order amount="5105" code="2" data="aftertommorow" good="1" orderer="1"/>
+</shop>

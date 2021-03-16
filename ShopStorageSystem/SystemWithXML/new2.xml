@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<shop>
+	<good code="1" description="terrible" dilivery="yes" price="432"/>
+	<good code="2" description="very well" dilivery="no" price="5435"/>
+	<orderer adress="SPB" code="2" contactFace="fdasfadgassrmfrpajpgrg" name="Dima" telephone="79540356436"/>
+	<orderer adress="Saratov" code="3" contactFace="fdashfdhfg" name="Matvey" telephone="79990005533"/>
+	<orderer adress="Novosib" code="4" contactFace="fdashfdhfgfdsdafsfs" name="Kirill" telephone="79934205533"/>
+	<orderer adress="SPB" code="5" contactFace="fdasfadgassrmfrpajpgrg" name="Dima" telephone="79540356436"/>
+	<orderer adress="Saratov" code="6" contactFace="fdashfdhfg" name="Matvey" telephone="79990005533"/>
+	<orderer adress="Novosib" code="7" contactFace="fdashfdhfgfdsdafsfs" name="Kirill" telephone="79934205533"/>
+	<order amount="50" code="1" data="tomorrow" good="2" orderer="1"/>
+	<order amount="5105" code="2" data="aftertommorow" good="1" orderer="1"/>
+	<order amount="c" code="3" data="d" good="1" orderer="1"/>
+	<order amount="c" code="3" data="d" good="1" orderer="1"/>
+</shop>
